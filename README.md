@@ -9,7 +9,7 @@ Get the two values from the user
 Assign the value of second variable to a temporary variable 
 ### Step 3: 
 Substitute the values in the distance formula  
-![formula](/formula.png)
+![formula](/image/formula.png)
 ### Step 4: 
 Give the print statement
 ### Step 5: 
