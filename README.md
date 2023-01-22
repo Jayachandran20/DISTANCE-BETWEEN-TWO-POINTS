@@ -16,6 +16,9 @@ Give the print statement
 End the program
 ### PROGRAM:
 ```
+#Program to find the solution for the given Distance between two points
+#Developed by: M.Jayachandran
+#RegisterNumber: 22008847
 import math as m
 l1=[4,2]
 l2=[10,6]
